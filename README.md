@@ -40,7 +40,6 @@ naoeye/
 - Required Python packages:
   ```bash
   pip install qi opencv-python mediapipe numpy scipy
-````
 
 ### Optional `requirements.txt`
 

@@ -29,9 +29,6 @@ naoeye/
 └── README.md        # This file
 
 ````
-
----
-
 ## ⚙️ Requirements
 
 ### Hardware
